@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.1)
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (18.0.1)
+  - DropDown (2.3.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - BTNavigationDropdownMenu
+  - Cosmos
+  - DropDown
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - DropDown
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: 7dfaa3f52584ca5f94ab74b5c2e264019cc9f7f5
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+
+PODFILE CHECKSUM: d7c54d927d7ca07920e2ebee8e4203d062e97b26
+
+COCOAPODS: 1.5.3
